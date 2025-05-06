@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # ===============================
-# Instalador robusto de Nextcloud con PHP 8.2 + MariaDB + NGINX
+# Instalador de Nextcloud con PHP 8.2 + NGINX
 # ===============================
 
 set -e
 clear
-echo "=== INSTALADOR DE NEXTCLOUD CON PHP 8.2 Y MARIADB (ROBUSTO) ==="
+echo "=== INSTALADOR DE NEXTCLOUD CON PHP 8.2 ) ==="
 
 spinner() {
     local pid=$!
